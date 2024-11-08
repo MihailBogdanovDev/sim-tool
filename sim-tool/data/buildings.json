@@ -1,0 +1,2617 @@
+[
+  {
+    "buildingId": "RA",
+    "name": "RA",
+    "sateraitos": [
+      {
+        "deviceId": "F0N0",
+        "name": "01",
+        "groups": [
+          {
+            "friendlyName": "office/00/group/light_01",
+            "id": 1,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_01",
+                "ieee_address": "0x254526b85fec3c21",
+                "friendlyName": "0x254526b85fec3c21",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_02",
+                "ieee_address": "0xaf65fd595fafd569",
+                "friendlyName": "0xaf65fd595fafd569",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_03",
+                "ieee_address": "0x472fd6a6945e0b53",
+                "friendlyName": "0x472fd6a6945e0b53",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          }
+        ],
+        "devices": [
+          {
+            "endpoint": 1,
+            "ieee_address": "0x254526b85fec3c21"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xaf65fd595fafd569"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x472fd6a6945e0b53"
+          }
+        ],
+        "state": "online"
+      },
+      {
+        "deviceId": "F0N1",
+        "name": "02",
+        "groups": [
+          {
+            "friendlyName": "office/01/group/light_01",
+            "id": 1,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_04",
+                "ieee_address": "0x98a09674c198ceb0",
+                "friendlyName": "0x98a09674c198ceb0",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_05",
+                "ieee_address": "0x5db852dace5d8a34",
+                "friendlyName": "0x5db852dace5d8a34",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_06",
+                "ieee_address": "0xddf44ce8d859909a",
+                "friendlyName": "0xddf44ce8d859909a",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          },
+          {
+            "friendlyName": "office/02/group/light_01",
+            "id": 2,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_07",
+                "ieee_address": "0xa0e42c10634829ef",
+                "friendlyName": "0xa0e42c10634829ef",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_08",
+                "ieee_address": "0x8723f311e827e177",
+                "friendlyName": "0x8723f311e827e177",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_09",
+                "ieee_address": "0xea6c3b0acbd0e19b",
+                "friendlyName": "0xea6c3b0acbd0e19b",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          }
+        ],
+        "devices": [
+          {
+            "endpoint": 1,
+            "ieee_address": "0x98a09674c198ceb0"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x5db852dace5d8a34"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xddf44ce8d859909a"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xa0e42c10634829ef"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x8723f311e827e177"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xea6c3b0acbd0e19b"
+          }
+        ],
+        "state": "online"
+      },
+      {
+        "deviceId": "F1N0",
+        "name": "01",
+        "groups": [
+          {
+            "friendlyName": "office/00/group/light_01",
+            "id": 1,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_01",
+                "ieee_address": "0xf662985119279151",
+                "friendlyName": "0xf662985119279151",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_02",
+                "ieee_address": "0x363b76bc8c5e8c2d",
+                "friendlyName": "0x363b76bc8c5e8c2d",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_03",
+                "ieee_address": "0x817524b2368f2916",
+                "friendlyName": "0x817524b2368f2916",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          }
+        ],
+        "devices": [
+          {
+            "endpoint": 1,
+            "ieee_address": "0xf662985119279151"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x363b76bc8c5e8c2d"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x817524b2368f2916"
+          }
+        ],
+        "state": "online"
+      },
+      {
+        "deviceId": "F1N1",
+        "name": "02",
+        "groups": [
+          {
+            "friendlyName": "office/01/group/light_01",
+            "id": 1,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_04",
+                "ieee_address": "0x55b7b34650de8e33",
+                "friendlyName": "0x55b7b34650de8e33",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_05",
+                "ieee_address": "0xb5133d4fcd8d76db",
+                "friendlyName": "0xb5133d4fcd8d76db",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_06",
+                "ieee_address": "0x9129a7928b7080dc",
+                "friendlyName": "0x9129a7928b7080dc",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          },
+          {
+            "friendlyName": "office/02/group/light_01",
+            "id": 2,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_07",
+                "ieee_address": "0x757a0a61343ed0ad",
+                "friendlyName": "0x757a0a61343ed0ad",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_08",
+                "ieee_address": "0x18d9995e0e62bcc3",
+                "friendlyName": "0x18d9995e0e62bcc3",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_09",
+                "ieee_address": "0xb0d73338f4a6375d",
+                "friendlyName": "0xb0d73338f4a6375d",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          }
+        ],
+        "devices": [
+          {
+            "endpoint": 1,
+            "ieee_address": "0x55b7b34650de8e33"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xb5133d4fcd8d76db"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x9129a7928b7080dc"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x757a0a61343ed0ad"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x18d9995e0e62bcc3"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xb0d73338f4a6375d"
+          }
+        ],
+        "state": "online"
+      },
+      {
+        "deviceId": "F2N0",
+        "name": "01",
+        "groups": [
+          {
+            "friendlyName": "office/00/group/light_01",
+            "id": 1,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_01",
+                "ieee_address": "0xf171bac780dc4035",
+                "friendlyName": "0xf171bac780dc4035",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_02",
+                "ieee_address": "0x3c7d8d201ba9bc1d",
+                "friendlyName": "0x3c7d8d201ba9bc1d",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_03",
+                "ieee_address": "0xc4311a72123a6445",
+                "friendlyName": "0xc4311a72123a6445",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          }
+        ],
+        "devices": [
+          {
+            "endpoint": 1,
+            "ieee_address": "0xf171bac780dc4035"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x3c7d8d201ba9bc1d"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xc4311a72123a6445"
+          }
+        ],
+        "state": "online"
+      },
+      {
+        "deviceId": "F2N1",
+        "name": "02",
+        "groups": [
+          {
+            "friendlyName": "office/01/group/light_01",
+            "id": 1,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_04",
+                "ieee_address": "0x96a0389918d96603",
+                "friendlyName": "0x96a0389918d96603",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_05",
+                "ieee_address": "0x19a968f35ee8c28b",
+                "friendlyName": "0x19a968f35ee8c28b",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_06",
+                "ieee_address": "0xb9abbea8c4e68a13",
+                "friendlyName": "0xb9abbea8c4e68a13",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          },
+          {
+            "friendlyName": "office/02/group/light_01",
+            "id": 2,
+            "status": "online",
+            "members": [
+              {
+                "deviceId": "lamp_07",
+                "ieee_address": "0xc0db57165cb6f756",
+                "friendlyName": "0xc0db57165cb6f756",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_08",
+                "ieee_address": "0x5f322a80672f77b7",
+                "friendlyName": "0x5f322a80672f77b7",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              },
+              {
+                "deviceId": "lamp_09",
+                "ieee_address": "0xf1d4c651aa60be43",
+                "friendlyName": "0xf1d4c651aa60be43",
+                "endpoint": 1,
+                "color_temp": 209,
+                "brightness": 180,
+                "state": "ON",
+                "color_mode": "color_temp"
+              }
+            ]
+          }
+        ],
+        "devices": [
+          {
+            "endpoint": 1,
+            "ieee_address": "0x96a0389918d96603"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x19a968f35ee8c28b"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xb9abbea8c4e68a13"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xc0db57165cb6f756"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0x5f322a80672f77b7"
+          },
+          {
+            "endpoint": 1,
+            "ieee_address": "0xf1d4c651aa60be43"
+          }
+        ],
+        "state": "online"
+      }
+    ],
+    "floors": [
+      [
+        {
+          "roomId": "F0N0",
+          "name": "00",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F0N0_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "08:FC:7E:5A:D6:E8",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "F7:6A:24:EC:2F:06",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.10.226",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F0N0_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "21:5E:2C:38:86:A2",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "AC:3B:C4:6A:E3:4A",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.170.234",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F0N0_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "84:3A:C7:C5:B4:1D",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "7C:20:7A:BE:9D:98",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.134.126",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/00/group/light_01",
+              "id": 1,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_01",
+                  "ieee_address": "0x254526b85fec3c21",
+                  "friendlyName": "0x254526b85fec3c21",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_02",
+                  "ieee_address": "0xaf65fd595fafd569",
+                  "friendlyName": "0xaf65fd595fafd569",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_03",
+                  "ieee_address": "0x472fd6a6945e0b53",
+                  "friendlyName": "0x472fd6a6945e0b53",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomId": "F0N1",
+          "name": "01",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F0N1_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "02:18:DF:81:54:2B",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "BA:89:11:87:FC:AA",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.88.38",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F0N1_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "E4:BC:94:79:4E:44",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "B4:B6:59:54:2C:82",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.67.21",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F0N1_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "15:14:B0:E7:0D:21",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "25:AB:4C:EE:AC:4A",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.236.89",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/01/group/light_01",
+              "id": 1,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_04",
+                  "ieee_address": "0x98a09674c198ceb0",
+                  "friendlyName": "0x98a09674c198ceb0",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_05",
+                  "ieee_address": "0x5db852dace5d8a34",
+                  "friendlyName": "0x5db852dace5d8a34",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_06",
+                  "ieee_address": "0xddf44ce8d859909a",
+                  "friendlyName": "0xddf44ce8d859909a",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomId": "F0N2",
+          "name": "02",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F0N2_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "6F:F7:1F:3B:B4:C8",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "36:F1:3B:06:BE:98",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.199.4",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F0N2_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "E5:37:E6:71:FD:C0",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "DB:D4:AF:51:00:02",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.162.204",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F0N2_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "75:F2:EF:E0:C2:D8",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "5D:4C:52:BE:FA:03",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.112.34",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/02/group/light_01",
+              "id": 2,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_07",
+                  "ieee_address": "0xa0e42c10634829ef",
+                  "friendlyName": "0xa0e42c10634829ef",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_08",
+                  "ieee_address": "0x8723f311e827e177",
+                  "friendlyName": "0x8723f311e827e177",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_09",
+                  "ieee_address": "0xea6c3b0acbd0e19b",
+                  "friendlyName": "0xea6c3b0acbd0e19b",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "roomId": "F1N0",
+          "name": "00",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F1N0_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "27:E1:E8:F4:98:4A",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "89:F5:98:B2:24:CD",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.109.75",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F1N0_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "90:48:76:D1:7C:6B",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "3D:50:98:2B:D7:B0",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.103.143",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F1N0_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "AB:D6:D5:52:D7:1A",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "44:2C:2D:30:82:8D",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.99.12",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/00/group/light_01",
+              "id": 1,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_01",
+                  "ieee_address": "0xf662985119279151",
+                  "friendlyName": "0xf662985119279151",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_02",
+                  "ieee_address": "0x363b76bc8c5e8c2d",
+                  "friendlyName": "0x363b76bc8c5e8c2d",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_03",
+                  "ieee_address": "0x817524b2368f2916",
+                  "friendlyName": "0x817524b2368f2916",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomId": "F1N1",
+          "name": "01",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F1N1_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "2B:4F:C1:1A:27:36",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "4D:CA:6E:09:DA:56",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.161.176",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F1N1_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "B0:66:91:26:AE:58",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "60:75:5A:22:D1:19",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.137.95",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F1N1_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "A3:44:B3:D0:34:FA",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "E2:3C:FA:96:BD:6C",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.152.64",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/01/group/light_01",
+              "id": 1,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_04",
+                  "ieee_address": "0x55b7b34650de8e33",
+                  "friendlyName": "0x55b7b34650de8e33",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_05",
+                  "ieee_address": "0xb5133d4fcd8d76db",
+                  "friendlyName": "0xb5133d4fcd8d76db",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_06",
+                  "ieee_address": "0x9129a7928b7080dc",
+                  "friendlyName": "0x9129a7928b7080dc",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomId": "F1N2",
+          "name": "02",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F1N2_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "B5:30:15:9F:63:47",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "6C:21:F3:88:8B:05",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.10.192",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F1N2_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "2F:EB:38:EB:C7:3C",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "54:33:AA:2A:F4:3C",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.80.138",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F1N2_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "8E:B9:44:30:07:07",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "E4:05:7D:86:29:84",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.179.68",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/02/group/light_01",
+              "id": 2,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_07",
+                  "ieee_address": "0x757a0a61343ed0ad",
+                  "friendlyName": "0x757a0a61343ed0ad",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_08",
+                  "ieee_address": "0x18d9995e0e62bcc3",
+                  "friendlyName": "0x18d9995e0e62bcc3",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_09",
+                  "ieee_address": "0xb0d73338f4a6375d",
+                  "friendlyName": "0xb0d73338f4a6375d",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "roomId": "F2N0",
+          "name": "00",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F2N0_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "E9:D9:46:EF:E5:95",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "1B:14:0B:E1:77:9C",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.111.15",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F2N0_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "45:68:1D:EB:2D:06",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "05:EA:DA:01:92:44",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.54.176",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F2N0_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "C8:5E:27:0B:8A:7E",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "59:D9:C2:B4:09:F3",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.180.190",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/00/group/light_01",
+              "id": 1,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_01",
+                  "ieee_address": "0xf171bac780dc4035",
+                  "friendlyName": "0xf171bac780dc4035",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_02",
+                  "ieee_address": "0x3c7d8d201ba9bc1d",
+                  "friendlyName": "0x3c7d8d201ba9bc1d",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_03",
+                  "ieee_address": "0xc4311a72123a6445",
+                  "friendlyName": "0xc4311a72123a6445",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomId": "F2N1",
+          "name": "01",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F2N1_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "6A:6E:63:37:02:B1",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "6A:8B:E8:96:59:57",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.205.164",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F2N1_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "4F:7E:84:85:CE:D3",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "43:FC:4F:BF:9D:83",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.215.234",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F2N1_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "EE:F5:F9:36:B7:2C",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "53:6F:F1:58:8A:C2",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.112.223",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/01/group/light_01",
+              "id": 1,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_04",
+                  "ieee_address": "0x96a0389918d96603",
+                  "friendlyName": "0x96a0389918d96603",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_05",
+                  "ieee_address": "0x19a968f35ee8c28b",
+                  "friendlyName": "0x19a968f35ee8c28b",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_06",
+                  "ieee_address": "0xb9abbea8c4e68a13",
+                  "friendlyName": "0xb9abbea8c4e68a13",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomId": "F2N2",
+          "name": "02",
+          "temperature": 25.1,
+          "humidity": 10.1,
+          "light": 14.1,
+          "eosDevices": [
+            {
+              "deviceId": "eos_F2N2_0",
+              "name": "00",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "B7:80:55:67:70:0A",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "56:52:8F:2A:B2:52",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.188.246",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F2N2_1",
+              "name": "01",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "BB:90:98:25:2C:FA",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "EB:CE:86:6B:B1:E7",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.24.117",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            },
+            {
+              "deviceId": "eos_F2N2_2",
+              "name": "02",
+              "lastUpdateTime": 1730908536887,
+              "sensors": [
+                {
+                  "name": "temperature",
+                  "state": 25.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "humidity",
+                  "state": 10.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "light",
+                  "state": 14.1,
+                  "status": "ON"
+                },
+                {
+                  "name": "uptime",
+                  "state": 13,
+                  "status": "ON"
+                },
+                {
+                  "name": "mac_wifi_adress",
+                  "state": "B8:F6:9D:4D:56:C9",
+                  "status": "ON"
+                },
+                {
+                  "name": "wifi_signal",
+                  "state": -49,
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_bssid",
+                  "state": "51:40:A7:CE:8E:82",
+                  "status": "ON"
+                },
+                {
+                  "name": "ip_address",
+                  "state": "192.168.69.73",
+                  "status": "ON"
+                },
+                {
+                  "name": "connected_ssid",
+                  "state": "microlabIoT",
+                  "status": "ON"
+                },
+                {
+                  "name": "pir",
+                  "state": "OFF",
+                  "status": "ON"
+                }
+              ],
+              "restartSwitch": {
+                "name": "Restart Switch",
+                "state": "OFF",
+                "status": "ON"
+              }
+            }
+          ],
+          "zigbeeGroups": [
+            {
+              "friendlyName": "office/02/group/light_01",
+              "id": 2,
+              "status": "online",
+              "members": [
+                {
+                  "deviceId": "lamp_07",
+                  "ieee_address": "0xc0db57165cb6f756",
+                  "friendlyName": "0xc0db57165cb6f756",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_08",
+                  "ieee_address": "0x5f322a80672f77b7",
+                  "friendlyName": "0x5f322a80672f77b7",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                },
+                {
+                  "deviceId": "lamp_09",
+                  "ieee_address": "0xf1d4c651aa60be43",
+                  "friendlyName": "0xf1d4c651aa60be43",
+                  "endpoint": 1,
+                  "color_temp": 209,
+                  "brightness": 180,
+                  "state": "ON",
+                  "color_mode": "color_temp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]
