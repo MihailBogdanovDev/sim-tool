@@ -1,3 +1,4 @@
+require("dotenv").config({ path: require("path").resolve(__dirname, "../.env") });
 const MQTT = require("async-mqtt");
 const { updateBuildingsInfo } = require("./mqtt/emitters/buildingsEmitter")
 const { publishBuildings } = require("./mqtt/services/buildingsService")
@@ -5,6 +6,9 @@ const buildingController = require("./mqtt/controllers/buildingController")
 const simulationController = require("./mqtt/controllers/simulationController")
 const deviceService = require("./mqtt/services/deviceService")
 
+
+// Broker for demo: use MQTT_BROKER_URL env (e.g. mqtt://localhost:1883) or default
+const brokerUrl = process.env.MQTT_BROKER_URL || "mqtt://10.100.10.60:1883";
 
 const client = MQTT.connect({
   protocol: "mqtt",
@@ -15,10 +19,14 @@ const client = MQTT.connect({
   port: 8883
 });
 
-const client2 = MQTT.connect("mqtt://10.100.10.60:1883")
+const client2 = MQTT.connect(brokerUrl)
+
+client2.on("error", (err) => {
+  console.error("MQTT connection error:", err.message);
+});
 
 client2.on("connect", async () => {
-  console.log("Connected to MQTT broker");
+  console.log("Connected to MQTT broker:", brokerUrl);
 
   // Publish the buildings from buildings.json
   publishBuildings(client2);
